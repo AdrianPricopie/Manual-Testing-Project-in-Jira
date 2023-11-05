@@ -19,4 +19,14 @@
    5. Test execution
    6. Test closure
    7. Test monitoring and control
+ 
+### Introduction
+    
+   1.1 Project Objective
+
+   - The Guru99 Bank project aims to provide net banking facility to its customers.
+   - This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+
+            
+   1.2 Functionalities in scope
 
