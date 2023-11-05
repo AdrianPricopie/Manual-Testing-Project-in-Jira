@@ -53,5 +53,5 @@
 
 | Ramona - Tester  | will test: Edit customer,Security testing,Performance testing. |    
 | :-----: | :---: | 
-| Andreea - Senior Testerc | will test: Create new customer,System testing,Delete customer. |   
+| Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
 
