@@ -47,7 +47,11 @@
 
 ## Test process:
 
- ### Test planning.
+ ### Test planning
   
-  Roles and responsibilities
+   Roles and responsibilities:
+
+| Ramona - Tester  | will test: Edit customer,Security testing,Performance testing. |    
+| :-----: | :---: | 
+| Andreea - Senior Testerc | will test: Create new customer,System testing,Delete customer. |   
 
