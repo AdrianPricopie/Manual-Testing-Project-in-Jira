@@ -34,3 +34,11 @@
 
  1.2 Functionalities in scope
 
+  - To ensure that new customers can successfully register and access the Guru99 Bank services
+  - Functional testing & external interfaces are in scope and need to be tested
+  - The banking site will be only compatible with Chrome version 27 and above
+  - Here we should write all the functionalities that are included in the release.
+  - Testing the functionalities related to account management, including account creation, updating, and deletion.
+   
+ 
+
