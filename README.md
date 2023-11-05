@@ -28,9 +28,8 @@
  1.1 Project Objective
  
   - We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
-  - Application under test: https://demo.guru99.com/V4/index.php.
+  - Application under test:https://demo.guru99.com/V4/index.php.
   - Documentation:https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit.
-
 
  1.2 Functionalities in scope
 
@@ -40,5 +39,10 @@
   - Here we should write all the functionalities that are included in the release.
   - Testing the functionalities related to account management, including account creation, updating, and deletion.
    
- 
+ 1.3 Functionalities and tests out of scope
+
+  - Non-functional testing like stress, performance is beyond scope of this project.
+  - Automation testing is beyond scope.
+  - No QA support for mobile applications developed. Only web applications will be tested.
+
 
