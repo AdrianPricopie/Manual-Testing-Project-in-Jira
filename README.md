@@ -55,3 +55,16 @@
 | :-----: | :---: | 
 | Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
 
+   Entry criteria:
+   
+  - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing). 
+  - testing environment is up and running.
+  - Valid test data for creating a new customer is available, including name, address, phone number, and email.
+  - roles needed for the project are allocated.
+  - functional specifications are defined.
+  - The necessary equipment and software are installed for testing.
+  - Test scenarios and test cases for the 'New Customer,' 'Edit Customer,' and 'Delete Customer' functionalities are defined and documented.
+
+
+   
+
