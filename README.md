@@ -151,6 +151,15 @@
 
 ## 3.	Test deliverables
 
+ ### Test plan
+
+ ### Test condition
+
+ ### Test cases
+
+   [Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
+  
+
 
 
 
