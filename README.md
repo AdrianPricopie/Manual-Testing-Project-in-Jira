@@ -128,6 +128,17 @@
   - Bugs will be created based on the failed test cases. 
   - The full regression testing will be done after new application changes.
   - Retesting will be done after a bug is fixed.
+  - If the site will shut down, we will execute full retesting.
+  - The regression test will be executed when a problem is solved.
+
+### 2.6 Test closure
+
+  - 100% tests were executed and 90% of them are passed. 
+  - no Critical issues have Open status.
+
+
+
+
 
 
     
