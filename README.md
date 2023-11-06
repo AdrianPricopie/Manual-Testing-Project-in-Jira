@@ -153,6 +153,8 @@
 
  ### 3.1 Test condition
 
+  [Test condition](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Test%20Condition.xlsx)
+
  ### 3.2 Test cases
 
 [Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCasesWithoutResult.pdf)
