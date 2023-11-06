@@ -136,6 +136,20 @@
   - 100% tests were executed and 90% of them are passed. 
   - no Critical issues have Open status.
 
+### 2.7 Test monitoring and control
+
+  - Various periodic reports will be generated to reflect the current status of testing process, in case of major problems control measures could be taken. 
+  - Offering feedback to the QA team and other stakeholders regarding the progress.
+  - Conveying test results achieved so far to all relevant parties.
+  - Identifying and tracking relevant test metrics.
+  - All test cases are written and reviewd.
+  - Planning and Estimation to determine the future course of action based on the metrics being tracked.
+  - Prioritize testing efforts in a different way.
+  - Reorganize test schedules and deadlines.
+  - Restructure the test environment.
+  - Reprioritize the test case and conditions.
+
+
 
 
 
