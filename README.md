@@ -45,9 +45,9 @@
   - Automation testing is beyond scope.
   - No QA support for mobile applications developed. Only web applications will be tested.
 
-## Test process:
+## 2.Test process:
 
- ### Test planning
+ ### 2.1Test planning
   
    Roles and responsibilities:
 
@@ -95,6 +95,8 @@
   - new browser might not be supported
   - human error 
   - Data validation errors
+
+ ### 2.2 Test analysis    
 
 
 
