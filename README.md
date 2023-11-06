@@ -47,7 +47,7 @@
 
 ## 2.Test process:
 
- ### 2.1Test planning
+ ### 2.1 Test planning
   
    Roles and responsibilities:
 
