@@ -151,9 +151,11 @@
 
 ## 3.	Test deliverables
 
- ### 3.1 Test plan
+ ### 3.1 Test condition
 
- ### 3.2 Test condition
+ ### 3.2 Test cases
+
+[Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCasesWithoutResult.pdf)
 
  ### 3.6 Test cases result
 
