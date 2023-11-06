@@ -159,10 +159,9 @@
 
 ### 3.3 Daily test summary report
 
-Raportul generat in data x arata rularea a 20 de test case-uri dintre care 5 failed.
+The report generated on November 6, 2023, shows the execution of 30 test cases, out of which 10 failed
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report.png)
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report2.png)
-
 
  ### 3.6 Test cases result
 
