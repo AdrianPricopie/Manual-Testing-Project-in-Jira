@@ -19,7 +19,16 @@
    5. Test execution
    6. Test closure
    7. Test monitoring and control
- 
+3. Test deliverables
+   1. Test conditions
+   2. Test cases
+   3. Daily test summary reports
+   4. Traceability matrix
+   5. Test case results
+   6. Bugs report
+   7. Test completion report
+   8. Schedule
+
 ## Introduction:
 
  - The Guru99 Bank project aims to provide net banking facility to its customers.
