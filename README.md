@@ -155,9 +155,9 @@
 
  ### 3.2 Test condition
 
- ### 3.3 Test cases
+ ### 3.6 Test cases result
 
-   [Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
+   [Testcases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
   
 
 
