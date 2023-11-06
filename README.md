@@ -85,6 +85,16 @@
   - In the case of a failed modification, the system provides appropriate and detailed error messages.
   - All test recording data and their results are adequately documented.
   - Exploratory testing was conducted for the "Edit Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
+      
+   Risks:
+
+  - stability risks (crashes, disconnects, etc)
+  - IE browser might have performance issues
+  - the web page pagination could be impacted when opened on mobile devices
+  - stress conditions might impact the web application
+  - new browser might not be supported
+  - human error 
+  - Data validation errors
 
 
 
