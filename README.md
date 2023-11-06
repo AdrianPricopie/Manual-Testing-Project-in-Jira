@@ -122,6 +122,13 @@
   - this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority.
   - Test suites are created (Cycle Summary was created).
 
+### 2.5 Test execution
+
+  - the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera and Brave browsers.
+  - Bugs will be created based on the failed test cases. 
+  - The full regression testing will be done after new application changes.
+  - Retesting will be done after a bug is fixed.
+
 
     
 
