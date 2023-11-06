@@ -100,9 +100,18 @@
 
   - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
   - We plan on running a full regression test on the current version.
-  - Write test conditions(What?)
-  - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
+  - Write test conditions(What?).
+  - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?.
   - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
+    
+ ### 2.3 Test design
+
+  - defining the testing process.
+  - all the test cases are written and then examined. 
+  - Jira will be used as test management tool.
+  - Zephyr squad will be used as a plugin for jira.
+
+    
 
 
 
