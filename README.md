@@ -174,11 +174,11 @@ The report generated on November 6 2023, shows the execution of 30 test cases, o
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report.png)
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report2.png)
 
- ### 3.6 Test cases result
+ ### 3.5 Test cases result
 
    [Testcases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
 
- ### 3.7 Bugs report
+ ### 3.6 Bugs report
 
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
