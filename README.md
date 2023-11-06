@@ -65,6 +65,26 @@
   - The necessary equipment and software are installed for testing.
   - Test scenarios and test cases for the 'New Customer,' 'Edit Customer,' and 'Delete Customer' functionalities are defined and documented.
 
+   Exit criteria:
+   
+  - 90% of tests are passed
+  - To generate a unique account number and authentication data for the new customer.
+  - To provide a confirmation message of successful registration.
+  - To correctly validate the user-entered data and provide error messages in case of errors.
+  - To provide a detailed record of the test and the obtained results.
+  - exploratory testing was performed on New customer module.
+  - The customer deletion operation allows the successful removal of customers from the system.
+  - After deletion, there are no unwanted references or leftover data in the system.
+  - The system provides a confirmation or success message after a customer is successfully deleted.
+  - In the case of a failed deletion, the system provides appropriate and detailed error messages.
+  - All test recording data and their results are adequately documented.
+  - Exploratory testing was conducted for the "Delete Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
+
+
+
+ 
+    
+
 
    
 
