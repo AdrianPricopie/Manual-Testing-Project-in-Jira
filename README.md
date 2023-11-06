@@ -111,6 +111,18 @@
   - Jira will be used as test management tool.
   - Zephyr squad will be used as a plugin for jira.
 
+### 2.4 Test implementation
+
+  - The following elements are needed to be ready before the test execution phase begins: https://demo.guru99.com/V4/index.php.
+  - Testing environment is up and running:
+  - Access to the testing environment is given: UserID:(mngr532768,password:Bugati1@).
+  - Cycle summary was created.
+  - Test cases were added to the cycle summary.
+  - all the test data is available and reviewed (test data=registration was successfully,password example,manager user).
+  - this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority.
+  - Test suites are created (Cycle Summary was created).
+
+
     
 
 
