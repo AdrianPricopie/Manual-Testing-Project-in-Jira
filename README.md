@@ -96,7 +96,14 @@
   - human error 
   - Data validation errors
 
- ### 2.2 Test analysis    
+ ### 2.2 Test analysis
+
+  - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
+  - We plan on running a full regression test on the current version.
+  - Write test conditions(What?)
+  - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
+  - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
+
 
 
 
