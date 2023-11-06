@@ -79,6 +79,12 @@
   - In the case of a failed deletion, the system provides appropriate and detailed error messages.
   - All test recording data and their results are adequately documented.
   - Exploratory testing was conducted for the "Delete Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
+  - The customer modification operation allows the successful modification of customer data in the system.
+  - After modification, customer data is updated correctly and consistently throughout the entire system.
+  - The system provides a confirmation or success message after the customer's data is successfully modified.
+  - In the case of a failed modification, the system provides appropriate and detailed error messages.
+  - All test recording data and their results are adequately documented.
+  - Exploratory testing was conducted for the "Edit Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
 
 
 
