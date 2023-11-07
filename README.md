@@ -197,6 +197,11 @@ On the second day, I retested the tests on November 7, 2023, and the result show
 
  ### 3.8 Schedule
 
+  - We have 10 days of testing
+  - We have 30 test cases
+  - We would need to run an ~ of 30 tests/day
+
+
   
 
 
