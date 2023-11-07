@@ -161,7 +161,8 @@
 ## 3.	Test deliverables
 
  ### 3.1 Test condition
-
+ 
+  In total, there are a total of 30 test conditions that detail what will be tested on the Guru99 application.
   [Test condition](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Test%20Condition.xlsx)
 
  ### 3.2 Test cases
