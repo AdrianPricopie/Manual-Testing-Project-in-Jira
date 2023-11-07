@@ -187,7 +187,8 @@ On the second day, I retested the tests on November 7, 2023, and the result show
    [Testcases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
 
  ### 3.6 Bugs report
-
+ 
+  A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
  ### 3.7 Test completion report
