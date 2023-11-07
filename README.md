@@ -167,6 +167,9 @@
 
  ### 3.2 Test cases
 
+- Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
+- Each test case includes detailed steps, expected results, and preconditions.
+- There are 30 test cases.
 [Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCasesWithoutResult.pdf)
 
 ### 3.3 Daily test summary report
