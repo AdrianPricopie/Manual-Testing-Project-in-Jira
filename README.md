@@ -194,7 +194,7 @@ On the second day, I retested the tests on November 7, 2023, and the result show
 
   [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.pdf)
 
- ### 3.8 Scheldue 
+ ### 3.8 Schedule
 
   
 
