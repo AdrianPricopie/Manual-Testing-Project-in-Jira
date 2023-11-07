@@ -174,6 +174,10 @@ The report generated on November 6 2023, shows the execution of 30 test cases, o
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report.png)
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report2.png)
 
+ ### 3.4 Traceability matrix
+
+  [Treaceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Treaceability%20Matrix.xlsx)
+ 
  ### 3.5 Test cases result
 
    [Testcases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf)
@@ -181,6 +185,12 @@ The report generated on November 6 2023, shows the execution of 30 test cases, o
  ### 3.6 Bugs report
 
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
+
+ ### 3.7 Test completion report
+
+  [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.pdf)
+
+ ### 3.8 Scheldue 
 
   
 
