@@ -183,8 +183,10 @@ On the second day, I retested the tests on November 7, 2023, and the result show
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report3.png)
 
  ### 3.4 Traceability matrix
-
-  [Treaceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Treaceability%20Matrix.xlsx)
+ 
+  - Regular updates to the  [Treaceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Treaceability%20Matrix.xlsx) help maintain transparency and alignment between testing and project objectives throughout the test life cycle.
+  - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
+  - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
  
  ### 3.5 Test cases result
 
@@ -192,7 +194,7 @@ On the second day, I retested the tests on November 7, 2023, and the result show
 
  ### 3.6 Bugs report
  
-  A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
+   A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
  ### 3.7 Test completion report
