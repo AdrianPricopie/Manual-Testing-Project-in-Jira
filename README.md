@@ -196,7 +196,7 @@ Here, you will find a list of all the    [Test cases result](https://github.com/
 
  ### 3.6 Bugs report
  
-   A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
+   - A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
  ### 3.7 Test completion report
