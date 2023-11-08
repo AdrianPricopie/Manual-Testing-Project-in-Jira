@@ -200,8 +200,8 @@ Here, you will find a list of all the    [Test cases result](https://github.com/
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
  ### 3.7 Test completion report
-
-  [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.pdf)
+ 
+ - This is the [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.pdf) for the Guru99 application. It provides a comprehensive overview of the testing process, including test cases, their execution status, and any associated observations or issues encountered during testing.
 
  ### 3.8 Schedule
 
