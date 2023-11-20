@@ -42,6 +42,7 @@
 
  ### 1.2 Functionalities in scope
 
+  - All the features of New Customer,Edit Customer And Delete Customer module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
   - To ensure that new customers can successfully register and access the Guru99 Bank services
   - Functional testing & external interfaces are in scope and need to be tested
   - The banking site will be only compatible with Chrome version 27 and above
