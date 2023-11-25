@@ -71,6 +71,9 @@
   
 
    Exit criteria:
+
+   - 90% of tests are passed.
+   - exploratory testing was performed on New customer module.
    - To generate a unique account number and authentication data for the new
 customer.
    - To provide a confirmation message of successful registration.
