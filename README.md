@@ -103,19 +103,22 @@ and detailed error messages
 to identify unexpected or unaddressed issues in the planned test cases.
 
  
-   #### Risks:
+   ### Risks:
    
-   Project Risks:
+   **Project Risks:**
+   
    - Human error
    - Insufficient Budget
    - Team Unavailability
-   Product Risks:
-  - Stability risks (crashes, disconnects, etc)
-  - IE browser might have performance issues
-  - The web page pagination could be impacted when opened on mobile devices
-  - Stress conditions might impact the web application
-  - New browser might not be supported 
-  - Data validation errors
+     
+   **Product Risks:**
+     
+   - Stability risks (crashes, disconnects, etc)
+   - IE browser might have performance issues
+   - The web page pagination could be impacted when opened on mobile devices
+   - Stress conditions might impact the web application
+   - New browser might not be supported 
+   - Data validation errors
 
  ### 2.2 Test analysis
 
