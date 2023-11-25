@@ -61,41 +61,45 @@
   
    Roles and responsibilities:
 
-| Ramona - Tester  | will test: Edit customer,Security testing,Performance testing. |    
-| :-----: | :---: | 
-| Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
+| Pricopie Adrian -Junior Tester  | will test: Edit customer,Security testing,Performance testing. |    
+| :---: | :---: | 
+| Radulescu Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
 
    Entry criteria:
-   
-  - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing). 
-  - testing environment is up and running.
-  - Valid test data for creating a new customer is available, including name, address, phone number, and email.
   - roles needed for the project are allocated.
   - functional specifications are defined.
-  - The necessary equipment and software are installed for testing.
-  - Test scenarios and test cases for the 'New Customer,' 'Edit Customer,' and 'Delete Customer' functionalities are defined and documented.
+  
 
    Exit criteria:
-   
-  - 90% of tests are passed
-  - To generate a unique account number and authentication data for the new customer.
-  - To provide a confirmation message of successful registration.
-  - To correctly validate the user-entered data and provide error messages in case of errors.
-  - To provide a detailed record of the test and the obtained results.
-  - exploratory testing was performed on New customer module.
-  - The customer deletion operation allows the successful removal of customers from the system.
-  - After deletion, there are no unwanted references or leftover data in the system.
-  - The system provides a confirmation or success message after a customer is successfully deleted.
-  - In the case of a failed deletion, the system provides appropriate and detailed error messages.
-  - All test recording data and their results are adequately documented.
-  - Exploratory testing was conducted for the "Delete Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
-  - The customer modification operation allows the successful modification of customer data in the system.
-  - After modification, customer data is updated correctly and consistently throughout the entire system.
-  - The system provides a confirmation or success message after the customer's data is successfully modified.
-  - In the case of a failed modification, the system provides appropriate and detailed error messages.
-  - All test recording data and their results are adequately documented.
-  - Exploratory testing was conducted for the "Edit Customer" functionality to identify unexpected or unaddressed issues in the planned test cases.
-      
+   - To generate a unique account number and authentication data for the new
+customer.
+   - To provide a confirmation message of successful registration.
+   - To correctly validate the user-entered data and provide error messages
+in case of errors.
+   - To provide a detailed record of the test and the obtained results.
+   - The customer deletion operation allows the successful removal of
+customers from the system.
+   - After deletion, there are no unwanted references or leftover data in the
+system
+   - The system provides a confirmation or success message after a customer
+is successfully deleted.
+   - In the case of a failed deletion, the system provides appropriate and
+detailed error messages.
+   - Exploratory testing was conducted for the "Delete Customer"
+functionality to identify unexpected or unaddressed issues in the
+planned test cases.
+   - The customer modification operation allows the successful modification
+of customer data in the system.
+   - After modification, customer data is updated correctly and consistently
+throughout the entire system.
+   - The system provides a confirmation or success message after the
+customer's data is successfully modified.
+   - In the case of a failed modification, the system provides appropriate
+and detailed error messages
+   - Exploratory testing was conducted for the "Edit Customer" functionality
+to identify unexpected or unaddressed issues in the planned test cases.
+
+ 
    Risks:
 
   - stability risks (crashes, disconnects, etc)
