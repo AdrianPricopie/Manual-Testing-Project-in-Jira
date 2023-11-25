@@ -59,18 +59,18 @@
 
  ### 2.1 Test planning
   
-   Roles and responsibilities:
+   #### Roles and responsibilities:
 
 | Pricopie Adrian -Junior Tester  | will test: Edit customer,Security testing,Performance testing. |    
 | :---: | :---: | 
 | Radulescu Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
 
-   Entry criteria:
+   #### Entry criteria:
   - roles needed for the project are allocated.
   - functional specifications are defined.
   
 
-   Exit criteria:
+   #### Exit criteria:
 
    - 90% of tests are passed.
    - exploratory testing was performed on New customer module.
@@ -103,14 +103,18 @@ and detailed error messages
 to identify unexpected or unaddressed issues in the planned test cases.
 
  
-   Risks:
-
-  - stability risks (crashes, disconnects, etc)
+   #### Risks:
+   
+   Project Risks:
+   - Human error
+   - Insufficient Budget
+   - Team Unavailability
+   Product Risks:
+  - Stability risks (crashes, disconnects, etc)
   - IE browser might have performance issues
-  - the web page pagination could be impacted when opened on mobile devices
-  - stress conditions might impact the web application
-  - new browser might not be supported
-  - human error 
+  - The web page pagination could be impacted when opened on mobile devices
+  - Stress conditions might impact the web application
+  - New browser might not be supported 
   - Data validation errors
 
  ### 2.2 Test analysis
