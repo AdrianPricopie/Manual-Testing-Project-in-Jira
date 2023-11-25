@@ -114,8 +114,6 @@ to identify unexpected or unaddressed issues in the planned test cases.
 
   - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
   - We plan on running a full regression test on the current version.
-  - Write test conditions(What?).
-  - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?.
   - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
     
  ### 2.3 Test design
@@ -144,6 +142,8 @@ to identify unexpected or unaddressed issues in the planned test cases.
   - Retesting will be done after a bug is fixed.
   - If the site will shut down, we will execute full retesting.
   - The regression test will be executed when a problem is solved.
+  - Write test conditions(What?).
+  - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?. 
 
 ### 2.6 Test closure
 
