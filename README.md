@@ -123,8 +123,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
   - Zephyr squad will be used as a plugin for jira.
   - Valid test data for creating a new customer is available, including
 name, address, phone number, and email.
-  - The necessary equipment and software are installed for testing
-  - 
+  - The necessary equipment and software are installed for testing.
 
 
 ### 2.4 Test implementation
