@@ -34,13 +34,13 @@
  - The Guru99 Bank project aims to provide net banking facility to its customers.
  - This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
     
- ### 1.1 Project Objective
+ ## 1.1 Project Objective
  
   - We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
   - Application under test:https://demo.guru99.com/V4/index.php.
   - Documentation:https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit.
 
- ### 1.2 Functionalities in scope
+ ## 1.2 Functionalities in scope
 
   - All the features of New Customer,Edit Customer And Delete Customer module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing.
   - To ensure that new customers can successfully register and access the Guru99 Bank services
@@ -49,28 +49,32 @@
   - Here we should write all the functionalities that are included in the release.
   - Testing the functionalities related to account management, including account creation, updating, and deletion.
    
- ### 1.3 Functionalities and tests out of scope
+ ## 1.3 Functionalities and tests out of scope
 
   - Non-functional testing like stress, performance is beyond scope of this project.
   - Automation testing is beyond scope.
   - No QA support for mobile applications developed. Only web applications will be tested.
 
-## 2.Test process:
+# 2.Test process:
 
- ### 2.1 Test planning
+ ## 2.1 Test planning
   
    #### Roles and responsibilities:
+| Tester                    | Responsibilities                                     |
+|---------------------------|------------------------------------------------------|
+| Pricopie Adrian (Junior)  | - Edit customer testing                             |
+|                           | - Security testing                                   |
+|                           | - Performance testing                               |
+| Radulescu Andreea (Senior) | - Create new customer testing                        |
+|                           | - System testing                                     |
+|                           | - Delete customer testing                            |
 
-| Pricopie Adrian -Junior Tester  | will test: Edit customer,Security testing,Performance testing. |    
-| :---: | :---: | 
-| Radulescu Andreea - Senior Tester | will test: Create new customer,System testing,Delete customer. |   
-
-   #### Entry criteria:
+   ### Entry criteria:
   - roles needed for the project are allocated.
   - functional specifications are defined.
   
 
-   #### Exit criteria:
+   ### Exit criteria:
 
    - 90% of tests are passed.
    - exploratory testing was performed on New customer module.
@@ -120,13 +124,13 @@ to identify unexpected or unaddressed issues in the planned test cases.
    - New browser might not be supported 
    - Data validation errors
 
- ### 2.2 Test analysis
+ ## 2.2 Test analysis
 
   - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
   - We plan on running a full regression test on the current version.
   - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
     
- ### 2.3 Test design
+ ## 2.3 Test design
 
   - all the test cases are written and then examined. 
   - Jira will be used as test management tool.
@@ -136,7 +140,7 @@ name, address, phone number, and email.
   - The necessary equipment and software are installed for testing.
 
 
-### 2.4 Test implementation
+## 2.4 Test implementation
 
   - The following elements are needed to be ready before the test execution phase begins: https://demo.guru99.com/V4/index.php.
   - Testing environment is up and running:
@@ -147,7 +151,7 @@ name, address, phone number, and email.
   - this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority.
   - Test suites are created (Cycle Summary was created).
 
-### 2.5 Test execution
+## 2.5 Test execution
 
   - the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera and Brave browsers.
   - Bugs will be created based on the failed test cases. 
@@ -158,12 +162,12 @@ name, address, phone number, and email.
   - Write test conditions(What?).
   - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?. 
 
-### 2.6 Test closure
+## 2.6 Test closure
 
   - 100% tests were executed and 90% of them are passed. 
   - no Critical issues have Open status.
 
-### 2.7 Test monitoring and control
+## 2.7 Test monitoring and control
 
   - Various periodic reports will be generated to reflect the current status of testing process, in case of major problems control measures could be taken. 
   - Offering feedback to the QA team and other stakeholders regarding the progress.
@@ -178,19 +182,19 @@ name, address, phone number, and email.
 
 ## 3.	Test deliverables
 
- ### 3.1 Test condition
+ ## 3.1 Test condition
  
   In total, there are 30 test conditions that detail what will be tested on the Guru99 application.
   [Test condition](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Test%20Condition.xlsx)
 
- ### 3.2 Test cases
+ ## 3.2 Test cases
 
 - Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
 - Each test case includes detailed steps, expected results, and preconditions.
 - There are 30 
 [Testcases](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCasesWithoutResult.pdf)
 
-### 3.3 Daily test summary report
+## 3.3 Daily test summary report
 
 The report generated on November 6 2023, shows the execution of 30 test cases, out of which 10 failed
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report.png)
@@ -200,28 +204,28 @@ On the second day, I retested the tests on November 7, 2023, and the result show
 
 ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report3.png)
 
- ### 3.4 Traceability matrix
+ ## 3.4 Traceability matrix
  
   - Regular updates to the  [Treaceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Treaceability%20Matrix.xlsx) help maintain transparency and alignment between testing and project objectives throughout the test life cycle.
   - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
   - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
  
- ### 3.5 Test cases result
+ ## 3.5 Test cases result
 
  - Test Cases and Results for the Guru99 Application
 Here, you will find a list of all the    [Test cases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf) created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "delete customer," "New customer," and "edit customer.".
  
 
- ### 3.6 Bugs report
+ ## 3.6 Bugs report
  
    - A total of 10 bugs were discovered, out of which 7 were resolved, and through retesting, it was confirmed that they have been fixed, leaving only 3 open bugs.
   [Bugs report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/BugsReport.pdf)
 
- ### 3.7 Test completion report
+ ## 3.7 Test completion report
  
  - This is the [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.pdf) for the Guru99 application. It provides a comprehensive overview of the testing process, including test cases, their execution status, and any associated observations or issues encountered during testing.
 
- ### 3.8 Schedule
+ ## 3.8 Schedule
 
   - We have 10 days of testing
   - We have 30 test cases
