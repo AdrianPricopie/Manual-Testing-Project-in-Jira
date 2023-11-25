@@ -118,7 +118,6 @@ to identify unexpected or unaddressed issues in the planned test cases.
     
  ### 2.3 Test design
 
-  - defining the testing process.
   - all the test cases are written and then examined. 
   - Jira will be used as test management tool.
   - Zephyr squad will be used as a plugin for jira.
