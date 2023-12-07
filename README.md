@@ -184,7 +184,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 
 ### 3.1 Test Condition
 
-- In total, there are 30 test conditions that detail what will be tested on the Guru99 application.
+In total, there are 30 test conditions that detail what will be tested on the Guru99 application.
   [Test condition](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCondition.xlsx)
 - Verify if each field in the 'New Customer' section is found in the documentation
 - Verify if new customer can be added using New customer section with valid data
