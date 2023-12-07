@@ -186,7 +186,37 @@ to identify unexpected or unaddressed issues in the planned test cases.
 
 - In total, there are 30 test conditions that detail what will be tested on the Guru99 application.
   [Test condition](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCondition.xlsx)
-
+- Verify if each field in the 'New Customer' section is found in the documentation
+- Verify if new customer can be added using New customer section with valid data
+- We are checking the system does not allow the selection of a future birth date in "Date of Birth" field
+- Verify if the system should display an error message when attempting to enter a PIN code with fewer than 6 digits.
+- Verify if when mandatory fields are left empty a new customer  cannot be created 
+- Verify that  Customer Name field doesn't accept numbers 
+- Verify that an error message is displayed when special characters are entered in the Customer Name field
+- Verify that an error message is displayed when special characters are entered in the  Address field
+- Verify that an error message is displayed when numbers are entered in the  city field
+- Verify that an error message is displayed when numbers are entered in the state  field
+- Verify that an error message is displayed when special characters are entered in the  Pin field
+- Verify that when an invalid email address is entered in the E-Mail field, an error message is received
+- Verify that an error message is displayed when special characters are entered in the Telephone number   field
+- Verify that when entering an existing email during the creation of a new customer, the system will not allow the account to be created
+- Verify First Character of Customer Name Cannot Have a Space
+- Verify First Character of City  field Cannot Have a Space
+- Verify that an error message is displayed when special characters are entered in the Customer ID field
+- Check if an error message appears when trying to enter an already deleted user in the 'Customer ID' field
+- Verify that clicking the "Reset" button should reset the values in the "Edit Customer" form to their initial state.
+- Verify that  the same Email Id exists in the system, the system shows an error
+- Verify that the Customer ID field does not allow a space as the first character.
+- Verify that the Customer ID field does not allow a space as the first character.
+- Verify that clicking the "Reset" button should reset the values in the "Delete  Customer" form to their initial state.
+- Verify that "No Changes Made" Pop-Up Message in the "Edit Customer" Section Upon Submit.
+- Verify that an error message is displayed when special characters are entered in the  Customer ID field
+- Verify that a manager can delete an existing customer 
+- Verify if the system displays an error message when the Customer ID field is left empty
+- Verify if the password field  hide/show functionality is working in chrome browser
+- Verify that manager can edit customer data from Edit customer section 
+- Verify if the system displays an error message when the Customer ID field is left empty
+- 
 ### 3.2 Test Cases
 
 - Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
