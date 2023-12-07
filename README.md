@@ -210,7 +210,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 ### 3.5 Test Cases Result
 
 - Test Cases and Results for the Guru99 Application
-  Here, you will find a list of all the [Test cases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCases.pdf) created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "delete customer," "New customer," and "edit customer.".
+  Here, you will find a list of all the [Test cases result](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCaiseWithResult.pdf) created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "delete customer," "New customer," and "edit customer.".
 
 ### 3.6 Bugs Report
 
