@@ -204,7 +204,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 ### 3.4 Traceability Matrix
   
   ![TraceabilityMatrixPNG](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TraceabilityMatrix.png)
-- Regular updates to the [Traceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Treaceability%20Matrix.xlsx) help maintain transparency and alignment between testing and project objectives throughout the test life cycle.
+- Regular updates to the [Traceability matrix](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TreaceabilityMatrix.xlsx) help maintain transparency and alignment between testing and project objectives throughout the test life cycle.
 - The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
 - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
