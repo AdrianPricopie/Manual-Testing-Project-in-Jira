@@ -216,7 +216,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - Verify if the password field  hide/show functionality is working in chrome browser
 - Verify that manager can edit customer data from Edit customer section 
 - Verify if the system displays an error message when the Customer ID field is left empty
-- 
+  
 ### 3.2 Test Cases
 
 - Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
