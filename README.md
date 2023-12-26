@@ -1,5 +1,7 @@
 # Guru99 Banking Project
 
+This testing document is intended for the development team, testing team, and other stakeholders involved in the Guru99 Banking project. Additionally, it aims to provide a clear understanding of the testing process for all those interested in the quality and performance of the application.
+
 ## Revision History:
 
 | Date       | Description                   | Author            | Comments          |
