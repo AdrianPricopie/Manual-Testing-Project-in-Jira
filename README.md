@@ -258,6 +258,32 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 - We have 30 test cases.
 - We would need to run an ~ of 30 tests/day.
 
+## Key Aspects of the Project
+
+- Non-functional testing, such as stress or performance testing, was not included in this project.
+- Test automation was not considered.
+- No support was provided for mobile applications, focusing exclusively on testing web applications.
+- Out of the 10 identified bugs:
+- 7 have been resolved and retested.
+- 3 bugs remain open.
+- These open bugs do not seem to critically impact the production release and can be addressed later.
+
+1. **Detailed Attention to Test Definition:**
+   Paying detailed attention to the definition of tests is crucial for project success.
+
+2. **Monitoring Testing Progress:**
+   Periodic reporting is essential for monitoring testing progress.
+
+3. **Adjusting the Test Plan:**
+   Adjust the test plan based on collected metrics for better efficiency.
+
+4. **Exploring Broader Coverage:**
+   In future projects, explore broader coverage of non-functional tests.
+
+5. **Adopting Agile Approach:**
+   Consider adopting an agile approach for better adaptability to changes.
+
+Testing was conducted comprehensively, with the majority of tests passing successfully. Ongoing monitoring, reporting, and improvement of testing processes are essential for ensuring a quality final product.
 
 
 
