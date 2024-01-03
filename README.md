@@ -229,7 +229,7 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 
 - The report generated on November 6, 2023, shows the execution of 30 test cases, out of which 10 failed.
   ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report.png)
-  ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report2.png)
+  ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/27.11.2023(JIRA).png)
 - On the second day, I retested the tests on November 7, 2023, and the result showed that out of 30 tests, 27 passed, and 3 failed.
   ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/daily%20report3.png)
 
