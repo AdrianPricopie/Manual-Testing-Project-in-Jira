@@ -230,8 +230,11 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 - The report generated on January 01, 2024, shows the execution of 30 test cases, out of which 10 failed.
   ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/January%2001.png)
   ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/27.11.2023(JIRA).png)
-- On the second day, I retested the tests on January 02, 2024, and the result showed that out of 30 tests, 22 passed, and 8 failed.
+- On the second day,We retested the tests on January 02, 2024, and the result showed that out of 30 tests, 22 passed, and 8 failed.
   ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/January%2002.png)
+- On the third day,We retested the tests on January 03, 2024, and the result showed that out of 30 tests, 26 passed, and 4 failed.
+  ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/JIRA%2003.01.2024.png)
+  
 
 ### 3.4 Traceability Matrix
   
