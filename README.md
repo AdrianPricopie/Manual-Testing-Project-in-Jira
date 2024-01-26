@@ -130,7 +130,6 @@ to identify unexpected or unaddressed issues in the planned test cases.
 ## 2.2 Test Analysis
 
 - Analyze the business requirements to ensure all details for creating test conditions are available.
-- We plan on running a full regression test on the current version.
 - Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
 
 ## 2.3 Test Design
@@ -138,8 +137,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - All test cases are written and then examined.
 - Jira will be used as the test management tool.
 - Zephyr squad will be used as a plugin for Jira.
-- Valid test data for creating a new customer is available, including name, address, phone number, and email.
-- The necessary equipment and software are installed for testing.
+- The necessary test data for creating a new customer is identified, including name, address, phone number, and email.
 
 ## 2.4 Test Implementation
 
@@ -149,8 +147,10 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - Cycle summary was created.
 - Test cases were added to the cycle summary.
 - All the test data is available and reviewed (test data=registration was successful, password example, manager user).
-- This test run includes only regression testing in which we will run tests that have the highest priority; this will be the main priority.
+- In the implementation phase, tests are created and prepared for execution. However, regression testing, focusing on high-priority tests, will be conducted in later stages as part of the overall testing process.
 - Test suites are created (Cycle Summary was created).
+- The tests are implemented, and the required test data is created or prepared to be used in the test execution phase
+- The necessary equipment and software are installed for testing.
 
 ## 2.5 Test Execution
 
