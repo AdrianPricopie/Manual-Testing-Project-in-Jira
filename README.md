@@ -116,9 +116,9 @@ to identify unexpected or unaddressed issues in the planned test cases.
 ### Risks:
 
 **Project Risks:**
-- Human error
-- Insufficient Budget
-- Team Unavailability
+- The risk of team members committing human errors at various stages of the project, including testing activities.
+- The risk that one or more team members may become unavailable, thus affecting the progress of the project.
+- Uncertainty or lack of communication following testing or the review process, leading to delays or misunderstandings of identified issues.
 
 **Product Risks:**
 - Stability risks (crashes, disconnects, etc)
@@ -126,7 +126,6 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - The web page pagination could be impacted when opened on mobile devices
 - Stress conditions might impact the web application
 - New browser might not be supported 
-- Data validation errors
 
 ## 2.2 Test Analysis
 
