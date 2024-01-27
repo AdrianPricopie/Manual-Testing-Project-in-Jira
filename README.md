@@ -244,8 +244,8 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 
 ### 3.5 Test Cases Result
 
-- Test Cases and Results for the Guru99 Application
-  [Here](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCaiseWithResult.pdf) , you will find a list of all the test cases result created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "delete customer," "New customer," and "edit customer.".
+- Test Cases and Results for the Guru99 Application,
+  [Here](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/TestCaiseWithResult.pdf)  you will find a list of all the test cases result created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "delete customer," "New customer," and "edit customer.".
 
 ### 3.6 Bugs Report
 
