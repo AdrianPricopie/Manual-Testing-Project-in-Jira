@@ -163,6 +163,9 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - Write test conditions(What?).
 - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
 
+ ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.png)
+
+
 ## 2.6 Test Closure
 
 - 100% tests were executed, and 90% of them are passed.
