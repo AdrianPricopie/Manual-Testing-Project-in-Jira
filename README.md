@@ -162,6 +162,7 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - The regression test will be executed when a problem is solved.
 - Write test conditions(What?).
 - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
+- Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 30
 
  ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.png)
 
