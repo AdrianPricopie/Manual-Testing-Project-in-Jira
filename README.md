@@ -270,9 +270,9 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 - Test automation was not considered.
 - No support was provided for mobile applications, focusing exclusively on testing web applications.
 - Out of the 10 identified bugs:
-- 7 have been resolved and retested.
-- 3 bugs remain open.
-- These open bugs do not seem to critically impact the production release and can be addressed later.
+ 7 have been resolved and retested.
+ 3 bugs remain open.
+ These open bugs do not seem to critically impact the production release and can be addressed later.
 
 1. **Detailed Attention to Test Definition:**
    Paying detailed attention to the definition of tests is crucial for project success.
