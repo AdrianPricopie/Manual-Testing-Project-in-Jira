@@ -257,7 +257,7 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 
 - This is the Test completion reportfor the Guru99 application. It provides a comprehensive overview of the testing process, including test cases, their execution status, and any associated observations or issues encountered during testing.
 
--Test execution final report:
+-**Test execution final report**:
  ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.png)
 
 ### 3.8 Schedule
