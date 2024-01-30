@@ -162,9 +162,6 @@ to identify unexpected or unaddressed issues in the planned test cases.
 - The regression test will be executed when a problem is solved.
 - Write test conditions(What?).
 - Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
-- Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 30
-
- ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.png)
 
 
 ## 2.6 Test Closure
@@ -260,7 +257,8 @@ In total, there are 30 test conditions that detail what will be tested on the Gu
 
 - This is the [Test completion report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Test_Completion_Report.docx) for the Guru99 application. It provides a comprehensive overview of the testing process, including test cases, their execution status, and any associated observations or issues encountered during testing.
 
-
+-Test execution final report:
+ ![Daily report](https://github.com/legendadr/Manual-Testing-Project-in-Jira/blob/main/Dashboard.png)
 
 ### 3.8 Schedule
 
